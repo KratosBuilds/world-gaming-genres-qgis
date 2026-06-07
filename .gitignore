@@ -1,0 +1,27 @@
+# QGIS project backup and temp files
+*.qgs~
+*.qgz~
+*.aux.xml
+*.qml~
+*.qmd~
+*.qgd~
+*.qpj
+
+# QGIS cache and processing outputs
+.qgis2/
+.qgis3/
+.qgis/
+.qgis_cache/
+processing/
+
+# Backup files
+*.bak
+*.backup
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache (if scripts are added later)
+__pycache__/
+*.pyc
